@@ -43,16 +43,21 @@
 # print(5 % 3)
 # print(5 ** 2)
 
-message = "hello everybody"
-print(message[0])
-print(message[1])
-print(message[2])
-print(message[3])
-print(message[4])
+# message = "hello everybody"
+# print(message[0])
+# print(message[1])
+# print(message[2])
+# print(message[3])
+# print(message[4])
 
 #  تمرین 
 # برنامه ای بنویسید که نام فردی را از ورودی دریافت نماید و تک تک کاراکترهای آن را نمایش دهد
 
+x = 12.5
+print(type(x))
+x = int(x)
+print(x)
+print(type(x))
 
 
 
